@@ -2,8 +2,8 @@
 //  Extensions.swift
 //  youtube
 //
-//  Created by Brian Voong on 6/3/16.
-//  Copyright © 2016 letsbuildthatapp. All rights reserved.
+//  Created by Juan Luis on 11/3/16.
+//  Copyright © 2016 Cuba++. All rights reserved.
 //
 
 import UIKit
@@ -49,7 +49,7 @@ class CustomImageView: UIImageView {
         URLSession.shared.dataTask(with: url!, completionHandler: { (data, respones, error) in
             
             if error != nil {
-                print(error)
+                print(error ?? "")
                 return
             }
             

@@ -2,8 +2,8 @@
 //  ApiService.swift
 //  youtube
 //
-//  Created by Brian Voong on 6/30/16.
-//  Copyright © 2016 letsbuildthatapp. All rights reserved.
+//  Created by Juan Luis on 6/30/16.
+//  Copyright © 2016 Cuba++. All rights reserved.
 //
 
 import UIKit
@@ -31,7 +31,7 @@ class ApiService: NSObject {
         URLSession.shared.dataTask(with: url!, completionHandler: { (data, response, error) in
             
             if error != nil {
-                print(error)
+                print(error ?? "")
                 return
             }
             

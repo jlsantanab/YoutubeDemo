@@ -2,8 +2,8 @@
 //  VideoCell.swift
 //  youtube
 //
-//  Created by Brian Voong on 6/3/16.
-//  Copyright © 2016 letsbuildthatapp. All rights reserved.
+//  Created by Juan Luis on 11/3/16.
+//  Copyright © 2016 Juan Luis. All rights reserved.
 //
 
 import UIKit

@@ -2,8 +2,8 @@
 //  VideoLauncher.swift
 //  youtube
 //
-//  Created by Brian Voong on 8/11/16.
-//  Copyright © 2016 letsbuildthatapp. All rights reserved.
+//  Created by Juan Luis on 11/11/16.
+//  Copyright © 2016 Cuba++. All rights reserved.
 //
 
 import UIKit

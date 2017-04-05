@@ -2,8 +2,8 @@
 //  SettingsLauncher.swift
 //  youtube
 //
-//  Created by Brian Voong on 6/17/16.
-//  Copyright © 2016 letsbuildthatapp. All rights reserved.
+//  Created by Juan Luis on 11/17/16.
+//  Copyright © 2016 Cuba++. All rights reserved.
 //
 
 import UIKit
